@@ -17,7 +17,7 @@ password: admin369
 5. Once logged in, change the URL address point to "http://localhost:3000/messenger". 
 
 Notes:
- - Once the sender sends a message, the receiver URL should be refresh first before actually getting or receiving the message.
+ - Once the sender sends a message, the receiver URL should be refreshed first before actually getting or receiving the message.
 
  - I have downloaded a template for the Login and the landing page URLs but I have written the codes from scratch for the messenger/chat app (components, routers, models of both api and client folders)
 
